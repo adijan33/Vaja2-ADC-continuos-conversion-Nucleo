@@ -1,0 +1,1 @@
+# Vaja-2---neprekinjena-ADC-pretvorba.Doli-abi-
