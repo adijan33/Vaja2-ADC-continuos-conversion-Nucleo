@@ -28,3 +28,11 @@ Pravi čas vzorčenja se nato poveča še za 12 ciklov zaradi procesa samega. Ko
 vzorčenja tvz v mikro sekundah?
 
 (enačba: tvz = t'vz_ciklih / fpreskalriana)? 64,9μs
+
+SLIKA PINOUT 
+<img width="710" height="620" alt="Posnetek zaslona 2025-11-05 100631" src="https://github.com/user-attachments/assets/cba8c8f4-97a5-4bbd-b1d3-8326e68dd82e" />
+
+
+
+
+
